@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Pen+Script');
+nav{
+	height: 70px;
+	width: 100%;
+	display: block;
+}
+h1{
+	float: left;
+	padding-right: 740px;
+}
+header{
+	width: 100%;
+	height: 600px;
+}
+.t1{
+	font-size: 60px;
+}
+.container1{
+	width: 960px;
+	height: 100%;
+	margin:auto;
+}
+
+.img{
+	background-image: url("https://local.sangsanguniv.com/XFileUploadData/editor/2016/04/25110448_1d321670adde4472a18a92abc7b2289e.jpg");
+	width: 100%;
+	height: 600px;
+	 opacity: 0.6;
+    filter: alpha(opacity=40); 
+	background-size: cover;
+}
+.navbar-brand{
+	font-family:"Nanum Pen Script", cursive;
+}
+.nav-item{
+font-family:"Nanum Pen Script", cursive;
+font-size: 15px;
+}
+.text{
+	color: black;
+	 font-size: 18px;
+   font-weight: bold;
+	font-family:"Nanum Pen Script", cursive;
+	text-align: center;
+	padding-top: 200px;
+
+}
+.p1{
+	padding-left: 5px;
+
+}
+
+.p2{
+
+	padding-left: 10px;
+}
+
+.sect{
+
+	display: grid;
+	grid-template-columns: 310px 310px 310px;
+	  font-weight: bold;
+	  font-size: 15px;
+	  text-align: center;
+	font-family:"Nanum Pen Script", cursive;
+	padding-bottom: 70px;
+	padding-top: 70px;
+}
+ footer {
+  background-color:black;
+  color: white;
+  line-height: 50px;
+  text-align: center;
+  height:50px;
+  width: 100%;
+  font-size: 15px;
+  font-family:"Nanum Pen Script", cursive;
+}
